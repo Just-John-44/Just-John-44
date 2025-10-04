@@ -1,5 +1,5 @@
 <!--This is my the japanese version of my GitHub README profile-->
-:globe_with_meridians: 日本語 | [英語](README.en.md)
+:globe_with_meridians: 日本語 | [英語](README.md)
 
 # 私のプロフィールへようこそ！
 <!-- I'm a senior computer science student passionate about exploring the tech industry. I enjoy language learning, anything creative, and keeping a healthy lifestyle! As of lately, I'm learning more about computer networks and web development. -->
