@@ -10,24 +10,20 @@
 
 ## よく使っているツールと言語
 
-**言語:** 
-
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
-<img height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-**フロントエンド:**
-
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+**言語とフレームワーク:** 
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" height="30px" style="margin-right: 10pk;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 **ツール:**
 
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 
 ---
 
@@ -46,9 +42,8 @@
 
 ## お気軽にご連絡ください！ 
 
-- <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg" /> [リンクトイン(LinkedIn)](https://www.linkedin.com/in/john-thompson-837696276/)
-
-- <img height="17" src="images/handshake_icon.png" /> [ハンドシェイク(Handshake)](https://app.joinhandshake.com/profiles/udcnp5)
-
-- <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg" /> [インスタグラム(Instagram)](https://www.instagram.com/westhompson94/)
+<!-- <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg" /> -->
+- [LinkedIn: linkedin.com/in/jwthompson-dev](https://www.linkedin.com/in/jwthompson-dev)
+- [Website: jwthompson.dev](https://jwthompson.dev)
+- [Email: john@jwthompson.dev](mailto:john@jwthompson.dev)
 
