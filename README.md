@@ -11,24 +11,21 @@ Vice President of [MTSU Competitive Coding Club](https://www.instagram.com/mtsu_
 
 ## Tools & Languages
 
-**Languages:** 
+**Languages and Frameworks:** 
 
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
-<img height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-**Frontend:**
-
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" height="30px" style="margin-right: 10pk;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 **Tools:**
 
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img height="30" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+<img align="left" height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img height="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 
 ---
 
@@ -45,14 +42,9 @@ Vice President of [MTSU Competitive Coding Club](https://www.instagram.com/mtsu_
 ---
 
 ## Contact Me
-
-- <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg" /> [LinkedIn](https://www.linkedin.com/in/john-thompson-837696276/)
-
-- <img height="17" src="images/handshake_icon.png" /> [Handshake](https://app.joinhandshake.com/profiles/udcnp5)
-
-- <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg" /> [Instagram](https://www.instagram.com/westhompson94/)
-
-<!-- - Personal Website / Blog -> -->
-<!-- - YouTube ->  -->
+<!-- <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg" /> -->
+- [LinkedIn: linkedin.com/in/jwthompson-dev](https://www.linkedin.com/in/jwthompson-dev)
+- [Website: jwthompson.dev](https://jwthompson.dev)
+- [Email: john@jwthompson.dev](mailto:john@jwthompson.dev)
 
 
