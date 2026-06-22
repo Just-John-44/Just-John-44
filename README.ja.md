@@ -26,7 +26,8 @@
 ---
 
 <!-- Currently Working On -->
-**現在取り組んでいること**
+## 現在取り組んでいること
+
 <!-- - Improving my Japanese flashcard generation tool -->
 - 日本語のフラッシュカード作成ツールの改善
 <!-- - Studying professional Japanese -->
